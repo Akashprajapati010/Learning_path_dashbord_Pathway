@@ -55,15 +55,17 @@ Potential applications include:
 | **Adnan Baig**    | **Back-End Developer** – Integrated Hygraph CMS for content management and Clerk for authentication. Managed database interactions and API security. |
 | **Ashish Mehra**  | **Documentation & Deployment** – Prepared project documentation including reports, manuals, and presentations. |
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://akashskyhub.framer.website/)  
+
 ---
 
 ## 📸 Screenshots
-![Dashboard Screenshot](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20005413.png)
-![Course Recommendation](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20012851.png)
-![Progress Tracking](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20021007.png)
-![Skill Analysis](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20012907.png)
-![Goal Setting Module](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20013457.png)
-![Analytics Overview](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20013726.png)
+![Dashboard Screenshot](https://github.com/Akashprajapati010/Learning_path_dashbord_Pathway/blob/c94cfc72129e0dcb50dd7142ac1b397269bb38b4/Image/Screenshot%202025-05-18%20005413.png)
+![Course Recommendation](https://github.com/Akashprajapati010/Learning_path_dashbord_Pathway/blob/c94cfc72129e0dcb50dd7142ac1b397269bb38b4/Image/Screenshot%202025-05-18%20012851.png)
+![Progress Tracking](https://github.com/Akashprajapati010/Learning_path_dashbord_Pathway/blob/c94cfc72129e0dcb50dd7142ac1b397269bb38b4/Image/Screenshot%202025-05-18%20012907.png)
+![Skill Analysis](https://github.com/Akashprajapati010/Learning_path_dashbord_Pathway/blob/c94cfc72129e0dcb50dd7142ac1b397269bb38b4/Image/Screenshot%202025-05-18%20021007.png)
+![Goal Setting Module](https://github.com/Akashprajapati010/Learning_path_dashbord_Pathway/blob/c94cfc72129e0dcb50dd7142ac1b397269bb38b4/Image/Screenshot%202025-05-18%20013457.png)
+![Analytics Overview](https://github.com/Akashprajapati010/Learning_path_dashbord_Pathway/blob/c94cfc72129e0dcb50dd7142ac1b397269bb38b4/Image/Screenshot%202025-05-18%20013726.png)
 
 ---
 
