@@ -1,8 +1,7 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+ 
 }
 
 @theme inline {
@@ -14,8 +13,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+   
   }
 }
 
@@ -24,3 +22,31 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* WATER FLOW ANIMATION TEXT */
+/* .water-text {
+  background: linear-gradient(
+    120deg,
+    #00c3ff,
+    #1cff8e,
+    #00c3ff,
+    #1cffbb
+  );
+  background-size: 400% 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: waterFlow 6s ease infinite;
+}
+
+@keyframes waterFlow {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+} */
+
