@@ -44,16 +44,7 @@ Potential applications include:
 
 ---
 
-## 👥 Team Members & Roles
-
-**Team Leader:** **Akash Prajapati**
-
-| Member Name       | Role & Responsibilities |
-|-------------------|--------------------------|
-| **Aakash Tiwari** | **UI/UX Designer** – Conducted usability testing and gathered user feedback. Ensured the design was intuitive and aligned with user needs. |
-| **Akash Prajapati** | **Full-Stack Developer & Team Leader** – Oversaw the project, assigned tasks, ensured deadlines, and designed & implemented the user interface using React.js & Next.js. Developed backend functionality using Hygraph. |
-| **Adnan Baig**    | **Back-End Developer** – Integrated Hygraph CMS for content management and Clerk for authentication. Managed database interactions and API security. |
-| **Ashish Mehra**  | **Documentation & Deployment** – Prepared project documentation including reports, manuals, and presentations. |
+## 👥 Live Demo
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://learning-path-dashbord-pathway.vercel.app)  
 
