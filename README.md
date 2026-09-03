@@ -47,7 +47,7 @@ Potential applications include:
 ## 👥 Live Demo
 <p>
   ⚠️ <strong>Best Viewed on Desktop:</strong>
-  This website is not fully responsive yet. This is my first React.js project, and I'm currently working on improving its responsiveness.
+  This website is not fully responsive yet, as this is my first project built with React.js.
 </p>
 <a href="https://learning-path-dashbord-pathway.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen" alt="Live Demo">
