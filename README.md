@@ -48,6 +48,11 @@ Potential applications include:
 (Please view this website in Desktop Mode for the best experience. The website is not fully responsive yet, as this is my first project built with React.js)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://learning-path-dashbord-pathway.vercel.app)  
+<p>
+  ⚠️ <strong>Best Viewed on Desktop:</strong>
+  This website is not fully responsive yet. This is my first React.js project, and I'm currently working on improving its responsiveness.
+</p>
+
 <a href="https://learning-path-dashbord-pathway.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen" alt="Live Demo">
 </a>
