@@ -56,6 +56,11 @@ Potential applications include:
 <a href="https://learning-path-dashbord-pathway.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen" alt="Live Demo">
 </a>
+### 🚀 Live Demo
+
+👉 **[Open Live Demo ↗](https://learning-path-dashbord-pathway.vercel.app/)**
+
+> ⚠️ **Best Viewed on Desktop:** This website is not fully responsive yet. This is my first React.js project, and I'm currently working on improving its responsiveness.
 ---
 
 ## 📸 Screenshots
