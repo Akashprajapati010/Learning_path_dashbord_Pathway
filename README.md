@@ -44,7 +44,8 @@ Potential applications include:
 
 ---
 
-## 👥 Live Demo (Please view on Desktop mode Because these Website is not proper responsive)
+## 👥 Live Demo
+(Please view on Desktop mode Because these Website is not proper responsive, Also this is my first project as react.js)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://learning-path-dashbord-pathway.vercel.app)  
 
