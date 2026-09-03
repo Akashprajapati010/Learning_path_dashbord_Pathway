@@ -60,7 +60,15 @@ Potential applications include:
 
 👉 **[Open Live Demo ↗](https://learning-path-dashbord-pathway.vercel.app/)**
 
-> ⚠️ **Best Viewed on Desktop:** This website is not fully responsive yet. This is my first React.js project, and I'm currently working on improving its responsiveness.
+⚠️ **Best Viewed on Desktop:** This website is not fully responsive yet. This is my first React.js project, and I'm currently working on improving its responsiveness.
+
+<a
+  href="https://learning-path-dashbord-pathway.vercel.app/"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Live Demo
+</a>
 ---
 
 ## 📸 Screenshots
